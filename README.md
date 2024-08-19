@@ -9,7 +9,6 @@ Tema Submetido para o Simpósio Nacional de Ensino de Física - XXVI Snef
 
 A Criação de um Software/Site capaz de ser utilizado auxiliarmente no ensino da Física em conjunto com os métodos tradicionais de Ensino Educacional.
 
-Execução da API do projeto da [Sprint 2][sprint2] a partir de um containers Docker, dentro da AWS Cloud.
 
 ## Introdução:
 
@@ -22,15 +21,8 @@ O Projeto compreende:
 - A Hospedagem será feita através do Github Pages.
 
 
-- A execução de uma API (conjunto de instruções e padrões de programação que servem para fornecer dados e informações relevantes de uma determinada aplicação), construída em NodeJS e Express a partir da aplicação da [Sprint-2](https://github.com/Compass-pb-aws-2023-Univesp/sprint-2-pb-aws-univesp);
-- A criação de um container Docker (software usado para implantar aplicações dentro de containers virtuais) com a API;
-- Sua disponibilização utilizando a AWS Cloud (provedor de soluções em nuvem com entrega sob demanda, oferecendo serviços integrados e otimizados) e sendo executada a partir do container gerado.
-
 
 **Mas por quer utilizar essa método para ensinar Física?**
-
-
-
 
 Para o funcionamento de um aplicativo ou serviço em diferentes sistemas a melhor solução é a utilização das funcionalidades do Docker, e a razão é justamente devido ao seu propósito semelhante ao das maquinas virtuais porém com diferenças significativas,
 pois o docker é capaz de oferecer aplicações a partir em containers, maior desempenho, e mais leve (pois ocupa menos espaço no armazenamento) e de rápida inicialização. 
